@@ -44,8 +44,11 @@ Pictures taken from [pixabay](https://pixabay.com/)
 #### Code & Deployment
 * Visual Studio Code
   * development environment with literally everything you need
-* Live studio Plugin 
   * Plugin from VS code that really gives you a great advantage in your practice, saves time.
+* Git & GitHub
+  * Git - by Git trough VS code you can save your work in every step of the way. Also directly deploy your site to GitHub
+  * GitHub - Create your repositorys, deploy your work, stor your work, share it..
+  
 #### Deployment
 #### Adjustments & Validations 
 Autoprefixers from - https://autoprefixer.github.io/
