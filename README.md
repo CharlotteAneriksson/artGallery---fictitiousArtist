@@ -42,6 +42,8 @@ Pictures taken from [pixabay](https://pixabay.com/)
 
 #### Planning
 #### Code & Deployment
+* Bullet list
+  * Nested bullet
 #### Deployment
 #### Adjustments & Validations 
 Autoprefixers from - https://autoprefixer.github.io/
