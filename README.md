@@ -21,6 +21,10 @@ A fictitious person and her gallery. Responsive design - mobile first approach w
 This is only a fictious site where responsiveness is in focus. Also in focus in the creation proccess is the mobile first approach.
 The menu and sub sites are not linked or created, only the collection link is in play here.
 
+* Buttons - Call to action
+  * These are connected to make a phone call to the artist. 
+Maybe the better way would be to connect the call to action button to a form that books a call
+
 ## Credit
 #### Photographers
 Pictures taken from [pixabay](https://pixabay.com/)
