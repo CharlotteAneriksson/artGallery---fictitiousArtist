@@ -13,7 +13,8 @@ A fictitious person and her gallery. Responsive design - mobile first approach w
 [Visit site](https://charlotteaneriksson.github.io/artGallery---fictitiousArtist/)
 
 ## Credit
-Credit to photographers, pictures taken from pixabay:
+#### Photographers
+Pictures taken from [pixabay](https://pixabay.com/)
 
 [Alexas_Fotos](https://pixabay.com/sv/photos/wall-art-spray-graffiti-kvinna-2852231/)
 
@@ -25,5 +26,5 @@ Credit to photographers, pictures taken from pixabay:
 
 [ivanovgood](https://pixabay.com/sv/photos/f%C3%A4rg-makeup-cracky-flicka-2990358/)
 
-Mockup taken from:
+#### Mockup
 [Mr Mockup](https://mrmockup.com/)
