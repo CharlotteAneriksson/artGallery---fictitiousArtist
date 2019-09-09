@@ -10,6 +10,7 @@ She has just come out of deep and dark griefing process after loosing her husban
 A fictitious person and her gallery. Responsive design - mobile first approach with vanilla CSS
 
 ## Deployment
+![](https://github.com/CharlotteAneriksson/artGallery---fictitiousArtist/blob/master/img/mockup-iPhone.gif)
 [Visit site](https://charlotteaneriksson.github.io/artGallery---fictitiousArtist/)
 
 ## Credit
