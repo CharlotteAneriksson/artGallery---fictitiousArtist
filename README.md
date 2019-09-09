@@ -41,6 +41,9 @@ Pictures taken from [pixabay](https://pixabay.com/)
 ## Technologies
 
 #### Planning
+* Photoshop
+* Pixabay & Mr Mockup
+
 #### Code & Deployment
 * Visual Studio Code
   * development environment with literally everything you need
@@ -48,8 +51,11 @@ Pictures taken from [pixabay](https://pixabay.com/)
 * Git & GitHub
   * Git - by Git trough VS code you can save your work in every step of the way. Also directly deploy your site to GitHub
   * GitHub - Create your repositorys, deploy your work, stor your work, share it..
-  
-#### Deployment
+* Google fonts
+  * My font -
+* Font Awesome
+  * Icons - 
+
 #### Adjustments & Validations 
 Autoprefixers from - https://autoprefixer.github.io/
 
