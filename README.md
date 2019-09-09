@@ -42,8 +42,10 @@ Pictures taken from [pixabay](https://pixabay.com/)
 
 #### Planning
 #### Code & Deployment
-* Bullet list
-  * Nested bullet
+* Visual Studio Code
+  * development environment with literally everything you need
+* Live studio Plugin 
+  * Plugin from VS code that really gives you a great advantage in your practice, saves time.
 #### Deployment
 #### Adjustments & Validations 
 Autoprefixers from - https://autoprefixer.github.io/
