@@ -43,3 +43,7 @@ Pictures taken from [pixabay](https://pixabay.com/)
 #### Planning
 #### Code & Deployment
 #### Deployment
+#### Adjustments & Validations 
+Autoprefixers from - https://autoprefixer.github.io/
+Validation of HTML5 - https://validator.w3.org/
+Validation of CSS3 - https://jigsaw.w3.org/css-validator/
