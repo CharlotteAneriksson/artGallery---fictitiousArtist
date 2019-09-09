@@ -14,6 +14,10 @@ A fictitious person and her gallery. Responsive design - mobile first approach w
 
 [Checkout deployed site](https://charlotteaneriksson.github.io/artGallery---fictitiousArtist/)
 
+### Good to now
+This is only a fictious site where responsiveness is in focus. Also in focus in the creation proccess is the mobile first approach.
+The menu and sub sites are not linked or created, only the collection link is in play here.
+
 ## Credit
 #### Photographers
 Pictures taken from [pixabay](https://pixabay.com/)
