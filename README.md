@@ -11,8 +11,9 @@ A fictitious person and her gallery. Responsive design - mobile first approach w
 
 ## Deployment
 
-<img src="img/mockup-iPhone.gif" alt="interactive mockup" width="160" height="200" style="margin-left:25px;">
+<img src="img/mockup-iPhone.gif" alt="interactive mockup" width="160" height="200">
 
+[Checkout deployed site](https://charlotteaneriksson.github.io/artGallery---fictitiousArtist/)
 
 
 
