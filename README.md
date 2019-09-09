@@ -10,9 +10,12 @@ She has just come out of deep and dark griefing process after loosing her husban
 A fictitious person and her gallery. Responsive design - mobile first approach with vanilla CSS
 
 ## Deployment
-<img src="img/mockup-iPhone.gif" alt="interactive mockup" width="160" height="200">
-
+<div style="text-align:center">
 [Checkout deployed site](https://charlotteaneriksson.github.io/artGallery---fictitiousArtist/)
+<img src="img/mockup-iPhone.gif" alt="interactive mockup" width="160" height="200">
+</div>
+
+
 
 ### Good to now
 This is only a fictious site where responsiveness is in focus. Also in focus in the creation proccess is the mobile first approach.
