@@ -227,7 +227,7 @@ footer div p{
 }
 @media (min-width: 800px){
     .gallery{ 
-        margin-left:80px;
+        margin-left:60px;
     }
     .last-section{
         padding-top:100px;
@@ -235,7 +235,7 @@ footer div p{
 }
 @media (min-width: 900px){
     .gallery{ 
-        margin-left:100px;
+        margin-left:80px;
     }
     .general-section .general-section-text{
         width:60%;
@@ -243,7 +243,7 @@ footer div p{
 }
 @media (min-width: 1000px){
     .gallery{ 
-        margin-left:140px;
+        margin-left:120px;
     }
     .general-section .general-section-text{
         width:40%;
@@ -251,7 +251,7 @@ footer div p{
 }
 @media (min-width: 1200px){
     .gallery{ 
-        margin-left:160px;
+        margin-left:140px;
     }
 }
 @media (max-width: 500px){
